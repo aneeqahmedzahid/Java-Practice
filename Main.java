@@ -1,3 +1,11 @@
+//UML-DIAGRAM
+//CLASS - OBJECT
+//INSTANCE VARIABLE
+//INSTANCE METHOD
+//REFRENCE VARIABLE
+//CONSTRUCTORS
+
+
 import java.util.Scanner;
 
 public class Main {
